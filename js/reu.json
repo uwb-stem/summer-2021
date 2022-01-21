@@ -1,0 +1,217 @@
+{
+    "preu": [
+        {
+            "time": "10:00 AM - 10:15 AM",
+            "projectId": "preu-1000",
+            "title": "Developing Professional Vision for Equity with Periscope Lessons",
+            "studentName": "Andrea Wooley",
+            "university": "Western Washington University",
+            "projectType": "Physics REU",
+            "facultyAdvisor": "Rachel Scherr",
+            "posterLink": "./posters/bio/Andrea-Wooley_Periscope_2021_REU.jpg_page-0001.jpg"
+        },
+        {
+            "time": "11:50 AM - 12:20 PM",
+            "projectId": "preu-1150-1",
+            "title": "Finding Extremely High-Velocity Outflows in Sloan Digital Sky Survey Data Release 16 Quasars",
+            "studentName": "Michael Parker",
+            "university": "William & Mary",
+            "projectType": "Physics REU",
+            "facultyAdvisor": "Paola Rodriguez Hidalgo",
+            "posterLink": "./posters/bio/Mikel Charles.jpg"
+        },
+        {
+            "time": "11:50 AM - 12:20 PM",
+            "projectId": "preu-1150-2",
+            "title": "Finding Extremely High-Velocity Outflows in Sloan Digital Sky Survey Data Release 16 Quasars",
+            "studentName": "Cora DeFrancesco",
+            "university": "University of Oklahoma",
+            "projectType": "Physics REU",
+            "facultyAdvisor": "Paola Rodriguez Hidalgo",
+            "posterLink": "./posters/bio/Mikel Charles.jpg"
+        },
+        {
+            "time": "11:50 AM - 12:20 PM",
+            "projectId": "preu-1150-3",
+            "title": "Finding Extremely High-Velocity Outflows in Sloan Digital Sky Survey Data Release 16 Quasars",
+            "studentName": "Nathnael Kahassi",
+            "university": "University of North Carolina",
+            "projectType": "Physics REU",
+            "facultyAdvisor": "Paola Rodriguez Hidalgo",
+            "posterLink": "./posters/bio/Mikel Charles.jpg"
+        },
+        {
+            "time": "11:50 AM - 12:20 PM",
+            "projectId": "preu-1150-4",
+            "title": "Finding Extremely High-Velocity Outflows in Sloan Digital Sky Survey Data Release 16 Quasars",
+            "studentName": "Wendy Garcia Naranjo",
+            "university": "University of Washington Bothell",
+            "projectType": "Physics REU",
+            "facultyAdvisor": "Paola Rodriguez Hidalgo",
+            "posterLink": "./posters/bio/Mikel Charles.jpg"
+        },
+        {
+            "time": "11:50 AM - 12:20 PM",
+            "projectId": "preu-1150-5",
+            "title": "Finding Extremely High-Velocity Outflows in Sloan Digital Sky Survey Data Release 16 Quasars",
+            "studentName": "Mikel Charles",
+            "university": "University of Washington Bothell",
+            "projectType": "Physics REU",
+            "facultyAdvisor": "Paola Rodriguez Hidalgo",
+            "posterLink": "./posters/bio/Mikel Charles.jpg"
+        },
+        {
+            "time": "10:15 AM - 10:30 PM",
+            "projectId": "preu-1015",
+            "title": "Sensemaking in circuit analysis: Identifying students' conceptual resources in a small group environment",
+            "studentName": "Beth Gallatin",
+            "university": "South Puget Sound Community College",
+            "projectType": "Physics REU",
+            "facultyAdvisor": "Dr. Amy Robertson",
+            "posterLink": "./posters/bio/Beth Gallatin final draft.png"
+        },
+        {
+            "time": "10:30 AM - 10:45 AM",
+            "projectId": "preu-1030",
+            "title": "Computational Modeling: Atmospheric Physics and Climate Change",
+            "studentName": "Adrienne Beggs",
+            "university": "Berea College",
+            "projectType": "Physics REU",
+            "facultyAdvisor": " Eric Salathé",
+            "posterLink": "posters/bio/Adrienne Beggs.jpg"
+        },
+        {
+            "time": "10:45 AM - 11:05 AM",
+            "projectId": "preu-1045-1",
+            "title": "Heat Wave Projections for the PNW",
+            "studentName": "Chris McJunkin",
+            "university": "University of Washington Bothell",
+            "projectType": "Physics REU",
+            "facultyAdvisor": "Eric Salathé",
+            "posterLink": "./posters/bio/Satveer-1.png"
+        },
+        {
+            "time": "10:45 AM - 11:05 AM",
+            "projectId": "preu-1045-2",
+            "title": "Heat Wave Projections for the PNW",
+            "studentName": "Satveer Sandhu",
+            "university": "University of Washington Bothell",
+            "projectType": "Physics REU",
+            "facultyAdvisor": "Eric Salathé",
+            "posterLink": "./posters/bio/Satveer-1.png"
+        },
+        {
+            "time": "11:15 AM - 11:30 AM",
+            "projectId": "preu-1115",
+            "title": "L-CAM Lunar Optical Telescope for Exoplanet Study and Discovery",
+            "studentName": "Carol Miu",
+            "university": "Collin College",
+            "facultyAdvisor": "Joey Key",
+            "posterLink": "posters/bio/Miu (2).jpg"
+        },
+        {
+            "time": "11:30 AM - 11:50 AM",
+            "projectId": "preu-1130-1",
+            "title": "Identification and Characterization of Ligo Spectral Artifacts",
+            "studentName": "María Notario",
+            "university": "University of Washington Seattle",
+            "projectType": "Physics REU",
+            "facultyAdvisor": "Ansel Neunzert",
+            "posterLink": "./posters/bio/AuDuyen.jpg"
+        },
+        {
+            "time": "11:30 AM - 11:50 AM",
+            "projectId": "preu-1130-2",
+            "title": "Identification and Characterization of Ligo Spectral Artifacts",
+            "studentName": "AuDuyen Trinh",
+            "university": "University of Washington Seattle",
+            "projectType": "Physics REU",
+            "facultyAdvisor": "Ansel Neunzert",
+            "posterLink": "./posters/bio/AuDuyen.jpg"
+        },
+        {
+            "time": "12:30 PM - 12:50 PM",
+            "projectId": "preu-1230-1",
+            "title": "Exploring the Birthplaces of Exoplanets via Simulations",
+            "studentName": "Alicia Palmerin-Jimenez",
+            "university": "Colgate College",
+            "projectType": "Physics REU",
+            "facultyAdvisor": "Joseph Glaser",
+            "posterLink": "posters/bio/Palmerin.jpg"
+        },
+        {
+            "time": "12:30 PM - 12:50 PM",
+            "projectId": "preu-1230-2",
+            "title": "Exploring the Birthplaces of Exoplanets via Simulations",
+            "studentName": "Myrla Phillipe",
+            "university": "University of Central Florida",
+            "projectType": "Physics REU",
+            "facultyAdvisor": "Joseph Glaser",
+            "posterLink": "posters/bio/Palmerin.jpg"
+        },
+        {
+            "time": "12:50 PM - 1:10 PM",
+            "projectId": "preu-1250-1",
+            "title": "Finding EMRIs in Simulated LISA Data",
+            "studentName": "August Muller",
+            "university": "Haverford College",
+            "projectType": "Physics REU",
+            "facultyAdvisor": "Joey Key",
+            "posterLink": "./posters/bio/AugustKaiaPosterDraft.pptx.png"
+        },
+        {
+            "time": "12:50 PM - 1:10 PM",
+            "projectId": "preu-1250-2",
+            "title": "Finding EMRIs in Simulated LISA Data",
+            "studentName": "Kaia Smith",
+            "university": "Scripps College",
+            "projectType": "Physics REU",
+            "facultyAdvisor": "Joey Key",
+            "posterLink": "./posters/bio/AugustKaiaPosterDraft.pptx.png"
+        },
+        {
+            "time": "1:10 PM - 1:25 PM",
+            "projectId": "preu-110",
+            "title": "Higher Order Boundary Conditions to Improve Gravitational Waveforms from Binary Black Hole Simulations",
+            "studentName": "Andrew Evans",
+            "university": "Sonoma State University",
+            "projectType": "Physics REU",
+            "facultyAdvisor": "Luisa T. Buchman",
+            "posterLink": "./posters/bio/Andrew poster.jpg"
+        },
+        {
+            "time": "1:35 PM - 1:50 PM",
+            "projectId": "preu-135",
+            "title": "Applications of Thin Films in Optics, Superconductivity, and Surface Science",
+            "studentName": "Cuauhtliztac Nicholas",
+            "university": "Green River College",
+            "projectType": "Physics REU",
+            "facultyAdvisor": "Subramanian Ramachandran",
+            "posterLink": "./posters/bio/Cuau (1).png"
+        },
+        {
+            "time": "1:50 PM - 2:05 PM",
+            "projectId": "preu-150",
+            "title": "Preliminary Experiments Involving Thermal Evaporation of Bi2Te3 and Seebeck Coefficient Measurements",
+            "studentName": "Justin Heckt",
+            "university": "University of Washington Bothell",
+            "projectType": "Physics REU",
+            "facultyAdvisor": "Subramanian Ramachandran",
+            "posterLink": "posters/bio/Justin Heckt .jpg"
+        },
+        {
+            "time": "2:05 PM - 2:20 PM",
+            "projectId": "preu-205",
+            "title": "Searching for Gravitational Waves with a Galactic Array of Pulsars",
+            "studentName": "Christine Ye",
+            "university": "Eastlake High School",
+            "projectType": "Physics REU",
+            "facultyAdvisor": "Jeff Hazboun",
+            "posterLink": "posters/bio/Christine.png"
+        }
+ 
+
+
+
+    ]
+}

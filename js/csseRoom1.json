@@ -1,0 +1,125 @@
+{
+    "csse": [
+        {
+            "time": "12:30 PM - 12:45 PM",
+            "projectId": "csse-1-1230",
+            "title": "Software Engineering Internship at Liberty Mutual",
+            "studentName": "Tensae Woldeselassie",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship - Liberty Mutual",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/csse/Tensae W.png",
+            "abstract": "This summer, I’ve been working as a Software Engineer Intern at Liberty Mutual. My intern team has been tasked to migrate commercial insurance related data from an excel file to a more efficient database. Additionally, we’ve created a user interface that allows different teams within the company to access and make changes to the data. Each row in the excel file contains rules on how to convert specific fields represented in a legacy xml format to an industry standard XML format called ACORD XML.\n\nThough the excel file initially met the needs of the company, it has been difficult to manage with the amount of data it stores today. Employees aren’t able to maneuver through the file as they once did, thus creating the need for a new storage solution. Because the data is accessed by people with varying levels of technical expertise, we designed the app to be intuitive and easy to use for non-technical users.\n\nThe application uses React for frontend, Spring Boot for backend, and MySQL as a database. Currently, we’ve implemented features that allow users to filter by specific column values, and add new rows into the database. We still need to implement other features including updating existing rows and keeping track of the edit history."
+        },
+        {
+            "time": "12:45 PM - 1:00 PM",
+            "projectId": "csse-1-1245",
+            "title": "Point of Sale Database Using AWS Dynamodb",
+            "studentName": "Kanwarjeet Sandhu",
+            "studentMajor": "CSSE",
+            "projectType": "Individual Project - Student Defined",
+            "facultyAdvisor": "Mr. Mark Kochanski",
+            "posterLink": "./posters/csse/Kanwarjeet Sandhu Final Capstone Poster.jpg",
+            "abstract": "In the era of big data, engineers are looking for unique ways of data storage and access mechanisms that are quite different from the tabular relations in RDBMS. This is where NoSQL or the so-called Not-Only SQL come into play. Currently in the tech sector many companies especially Amazon are using NoSQL to store their data. To keep up with the trend I was motivated to complete my capstone project and created a point-of-sale NoSQL database using Dynamodb and various other AWS services, such as, Lambda, API Gateway, and IAM. The main purpose of this project was to create a road map for other students interested developing software using AWS Dynamodb. Furthermore, it was a great way for me to learn about the AWS framework and gain marketable skills.\n\nAs far as the resultant product, three tables were created, Products, Customers, and Orders using Dynamodb. Seven functions were created, and coded in Node JS, to accommodate two write requests and ten query requests using Lambda. In order for the client to use the functions one API was created using API Gateway. Lastly, IAM was used to set limitations on the number of functions that could be accessed to perform write and query requests. Overall, this project is significant because it provides a road map for students who are interested in using AWS and building databases in NoSQL. Students will have access to the code base, and a detailed step by step description of the project on Github.  "
+        },
+        {
+            "time": "1:00 PM - 1:15 PM",
+            "projectId": "csse-1-100",
+            "title": "Fluttering Into the Future with Triple D Designs",
+            "studentName": "Ella Bruce",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship - Triple D",
+            "facultyAdvisor": "Dr. Jeffrey Kim",
+            "posterLink": "./posters/csse/bruce_ella.jpg",
+            "abstract": "Triple D Designs is a 3D printing startup company that launched in January 2021. The purpose of this project was to create an application for the company to list and sell items for sale to replace their current website that was lacking in design and mobile device compatibility.\n\n The founder of Triple D Designs, Will Beebe, wanted the application to be created using a new User Interface Software Developer, FlutterFlow. I created the application interface using this new software, which presented some challenges due to limited features and documentation. Even with some challenges, it was faster and more efficient to create each page of the application using the new software, rather than to hardcode each page in Flutter. The result of the final product was a simple and easy to use application with a marketplace feature.\n\n The application allows users to login using their email and password, Apple login, or Google login. They can view items filtered by categories, add items to their cart, and edit their account information. The first iteration of the application was completed and linked up directly to the Firebase database and authentication.\n\n I used research-based knowledge to ensure the application was made to follow basic UI design principles and took any feedback from the company’s founder into consideration when designing the interfaces. Now, the company has the framework to add in more features and a basic application interface almost ready to launch to the app stores. After some small modifications, the application will be ready for all users, whether it be on iOS, Android, or the Web."        
+        },
+        {
+            "time": "1:15 PM - 1:30 PM",
+            "projectId": "csse-1-115",
+            "title": "Data Visualization for Impinj Lab Manager Site",
+            "studentName": "Parker Knoblich",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship - Impinj Inc.",
+            "facultyAdvisor": "Dr. Arkady Retik",
+            "posterLink": "./posters/csse/knoblich_parker.JPG",
+            "abstract": "Impinj is a manufacturer of RFID hardware and software. The company has a lab in their Seattle office that contains groups of machines, known as test fixtures, which engineers can remotely reserve and run tests on via an internal “lab manager” website. Engineers execute hundreds of tests daily; however, the results of these tests and other information regarding the use of these test fixtures are not easily viewable, or even currently available.\n\n The goal of my internship was to create a dashboard that would visually display data about the test fixtures themselves and their usage so that engineers can quickly find what they are looking for and view detailed information about the fixtures. For example, the current website merely displays entries as raw HTML rows in a table, thus engineers must manually scroll through thousands of entries until they find the right one. One feature I added was a filtering tool in which engineers can filter by event type and date.\n\n The dashboard was built using HTML, CSS, and JavaScript on the frontend, and Flask, Python, and MongoDB on the backend. Although this stack was the foundation of the project, many additional JavaScript libraries were utilized to allow for filtering and searching of data.\n\nThe dashboard will soon be deployed for internal use by a small group of engineers who work with the test fixtures the most. Ultimately, the dashboard will be deployed into production for the whole company to use."        
+        },
+        {
+            "time": "1:30 PM - 1:45 PM",
+            "projectId": "csse-1-130",
+            "title": "Virtual Garden of Appreciation",
+            "studentName": "Jonathan Hendrickson",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship - Avanade",
+            "facultyAdvisor": "Dr. Arkady Retik",
+            "posterLink": "./posters/csse/hendrickson_jonathan.png",
+            "abstract": "My internship at Avanade started out with the “Innovation Challenge”, where I joined together with 4 other interns to solve a problem. The problem area we explored was the negative sentiment that people felt towards hybrid-online working environments due to an inability to properly connect with other people. As my group explored the problem area, we decided to focus on how appreciation is poorly conveyed in an online working environment.\n\nAfter settling on our problem, we worked to create a solution which could create a meaningful online substitute for the idea of buying someone a coffee or writing a thank-you note. We proposed a system which would allow employees to send little messages of appreciation to each other which is accompanied by a small physical gift, such as a teddy bear or a potted plant. The emphasis was on cheap but meaningful items which would remind people that they are appreciated in a working environment. We chose this approach as we believed it would mesh well with Avanade’s existing technological systems and help bridge the gap between in-person and online appreciation.\n\nWhen we presented our idea to our supervisor, he worked with us to extend our idea into the “Garden of Appreciation”; a virtual reality experience that allows employees to send gifts to each other and view them in a digital environment. After receiving approval from our supervisor, my team began organizing to create demos and gather requirements. Our goal was to research technologies and prepare proof-of-concepts so that we could begin building the VR garden into a full shippable product.\n\nWhile there were no set roles in the group, I focused on the technical component of the VR. I gathered requirements, helped build a visual proof-of-concept garden, and researched the Mixed Reality Extension SDK. Additionally, we have been learning and working through various project management components such as vision documents, 30-60-90 day plans, and Scrum product backlogs.\n\nOverall, this project has allowed me to network with numerous executives, innovation leads, managers, and other employees. I found incredible value in Avanade’s flat internal company structure which encourages interns to meet with higher-ups and learn from them. Developing the virtual garden from a hackathon idea into a more complete vision has been an exciting project to work on, and the result is a new company project which will continue to grow beyond my internship."        
+        },
+        {
+            "time": "1:45 PM - 2:00 PM",
+            "projectId": "csse-1-145",
+            "title": "Conent Delivery Network (CDN) Microservice",
+            "studentName": "Henry Park",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship - Salesforce",
+            "facultyAdvisor": "Dr. Arkady Retik",
+            "posterLink": "./posters/csse/park_henry.png",
+            "abstract": "My internship team is the Kernel Edge team which focuses on Content Delivery Network (CDN) infrastructures for Salesforce Commerce Cloud. Salesforce Commerce Cloud provides an e-commerce platform and a variety of tools for B2B and B2C customers so that they can leverage their time on business logic. In Commerce Cloud, CDN improves rendering time and security for the customers’ web storefront.\n\nThe CDN microservice helps Commerce Cloud service and other microservices to be abstracted away from CDN service by providing REST APIs.  During the internship, I picked stories in each sprint to work on various features for the CDN microservice. Since I had to work with production code, my teammates scrutinized my code and test cases and performed QA.\n\nThis microservice was built with Java and other Salesforce proprietary frameworks. For functional testing of the microservice, Python was mainly used. So far, the features I have built went into the production and launched successfully. By the end of the internship, I will have one more sprint to work on before the next release. The team will continue on this project even after my internship ends."        
+        },
+        {
+            "time": "2:00 PM - 2:15 PM",
+            "projectId": "csse-1-200",
+            "title": "LINGOPETS",
+            "studentName": "Satveer Kaur",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship - Foreign Language for Youth",
+            "facultyAdvisor": "Dr. Arnie Lund",
+            "posterLink": "./posters/csse/kaur_satveer.png",
+            "abstract": "The LingoPets game originally started as a class project but evolved into one that students could use at Foreign Language for Youth. The game aims to help teach kids different languages and cultures to prepare them to be culturally aware and build new linguistic skills. Initially, the game’s purpose was to provide kids with a fun, light-hearted game when learning to speak different languages. Throughout this internship, the game evolved to include the whole F.L.Y. team by acting as another tool to teach students, reinforce their learning, or both.\n\nI worked together with two other teammates throughout the internship to create a fully functioning game in Unity. We wanted to take our Figma prototype and make it responsive. The first two weeks include planning and aligning my team to a shared vision. From there on, we divided the work according to our roles. I focused on project management and programming. As a project manager, I did most of the communication regarding meeting planning, resolving dynamic team issues, and keeping the team aligned to our shared goals. As a programmer, I learned to use Unity and C# to bring all the pieces into one cohesive game. I created all necessary rooms within the game, created an algorithm for the Testroom to cover all situations a player may encounter when getting assessed, and assembled the U.I. This approach allowed us to work more efficiently while being comfortable with our roles and responsibilities due to past experiences.\n\nSince the internship is still ongoing, there are more results to obtain. However, we did receive initial feedback from the F.L.Y. team, which allowed us to gain some insight into our current game. We discovered two significant findings: the game lacked the same feel as the Figma demo, and the Testroom session was too long. Many of the members stated that shorter assessment sessions would be better for students. They also noted that the current version does not feel like the demo due to the missing features. Considering our time and skills, my teammates and I decided to address these issues the best we could to improve our demo before launching it to the students.\n\nBy the end of the internship, my team and I hope to have a functioning demo game that students will enjoy using while also giving F.L.Y. a new tool to elevate students’ learning experience."        
+        },
+        {
+            "time": "2:15 PM - 2:30 PM",
+            "projectId": "csse-1-215",
+            "title": "Accessibility and Cybersecurity Practices in Web Management",
+            "studentName": "Cindy Acevedo",
+            "studentMajor": "CSSE",
+            "projectType": "Individual Project - Student Defined",
+            "facultyAdvisor": "Dr. Arnie Lund",
+            "posterLink": "./posters/csse/acevedo_cindy.png",
+            "abstract": "Web management requires the use of tools and practices from different areas in computer science. The purpose of this project is to integrate and implement practices in the areas of Human-Computer Interaction and Cybersecurity on a small e-commerce website.\n\n This project implements accessibility tools and practices, as well as cybersecurity tools and practices to provide users of this website with functionality, security, and privacy.\n\n This e-commerce website is equipped with language translation, language localization, flag monochrome options, toggle high-contrast, skip-links, alt-text, gestalt principles, among other accessibility options. Additionally, this e-commerce website includes SSL certificate, anti-spam, 301 .htaccess redirect, comment filters, two-factor authentication, among other useful tools and practices.\n\n It is very important to include these tools and practices because, with the increase of e-commerce usage, it is important to improve outreach and inclusivity. Additionally, the increase of cybercrime asks for a better implementation of cybersecurity tools and practices that—although they can never guarantee 100% protection—will provide a sense of privacy and security to e-commerce users.\n\nAlthough the tools and practices implemented above are very useful there is room for improvement and there will be future updates in the e-commerce website to represent these improvements."        
+        },
+        {
+            "time": "2:30 PM - 2:45 PM",
+            "projectId": "csse-1-230",
+            "title": "SDE Internship with Amazon Prime Video",
+            "studentName": "Jonathon Lucas",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship - Amazon",
+            "facultyAdvisor": "Dr. Erika Parsons",
+            "posterLink": "./posters/csse/lucas_jonathon.png",
+            "abstract": "My team at Amazon Prime Video works to ensure that customers get their content My project supports this goal and has a direct impact on my team and customer experience. I expect that it will impact each Prime Video customer at least once, contributing to Prime Video’s mission “to give consumers the world’s best-in-class digital video customer experience” (Amazon.com, Inc.).\n\nI developed my project from scratch. Because I did not change or add to existing code, I was responsible for its design and implementation. To communicate my intended design with my mentor, I used UML diagrams. These visuals helped him understand what I was thinking and how I wanted to implement the project. Additionally, I was responsible for allocating infrastructure for my project.\n\nThrough working on the project, I reinforced what I learned in school and learned new skills. I used certain design patterns for the first time and used a programming language that I had not used in years. I also learned to be resourceful. Because I used many new technologies that my teammates had not used, I was depended heavily on documentation and other internal resources to write code and troubleshoot problems. I spent much effort on testing my code to ensure everything worked correctly.\n\nI am grateful for the opportunity to work at Amazon and deliver on a project that impacts so many customers."        
+        }, 
+        {
+            "time": "2:45 PM - 3:00 PM",
+            "projectId": "csse-1-245",
+            "title": "Interactive App Controls",
+            "studentName": "Corbin Williams",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship - PryzeBox",
+            "facultyAdvisor": "Dr. Johnny Lin",
+            "posterLink": "./posters/csse/williams_corbin.png",
+            "abstract": "PryzeBox is a marketplace for contests of all kinds,providing a simple, centralized way foreveryone to discover, play and win. Today, contestsare separated into groups of people basedon their particular interests. To discover and participate,you must be directly connected to thecommunity where the contests are publicized. Thisis a limited discovery model. With PryzeBox,the focus is contests and the people that participatein them. Contests are our shared interestgroup and our shared community, a place where contestsare easily discovered. PryzeBox isbuilt to be the marketplace for contests discovery.PryzeBox users also utilize the same singleprofile to participate in all contests. This approachallows for simple entry - providing a fast.streamlined way for users to participate. With thisgoal in mind, I will be assisting in creating aunique user experience in the form of interactiveuser controls. Interactive user controls arebuttons within the app that have an animation thatgets triggered when pressed. An example isthe like/heart button in most social media platforms,such as TikTok and Instagram. I will bedesigning the controls/buttons in Adobe illustrator,and animating the designs in Adobe AfterEffects. Because of the subjective nature of the work,an agile-like process, which I learnedabout in CSS 360 and CSS 370, will be used to createeach interactive control. If time allows, Iwill hopefully be able to help with the implementationof the interactive app controls with the leaddeveloper at PryzeBox."        
+        },
+        {
+            "time": "3:00 PM - 3:15 PM",
+            "projectId": "csse-1-300",
+            "title": "Building a Language Parser",
+            "studentName": "Amatul Saniya",
+            "studentMajor": "CSSE",
+            "projectType": "Individual Project - Student Defined",
+            "facultyAdvisor": "Dr. Nancy Kool",
+            "posterLink": "./posters/csse/Amatul.jpg",
+            "abstract": "Learning to build parsers is a useful skill for developers and can be used for tasks such as reverse engineering, code assessment, and code modifications. Parsers allow the programmer to analyze a piece of text structured in a specific language or format and extract information. Language parsers’ many uses and benefits include building, for example, interpreters, transpilers, and code/text-editors. Furthermore, parsing is an important phase that occurs in Natural Language Processing and the compilation of code.\n\nThe parser application which I built for my CSSE capstone is designed to help my clients migrate their programs to a modern platform; specifically, it allows the automated conversion of code from one language to another.\n\n A primary goal of this project was to create an application that parses and thereby to gain first-hand experience in breaking down an unfamiliar programming language. Therefore, the first steps required were to familiarize myself with and study Python, as well as learning how to write grammars using ANTLR, a parse generator. After the initial learning stages, I worked on implementing a grammar, in gradual phases (using small independent blocks of code to allow for unit testing), that parses the syntax of Python. The next steps involved integrating the ANTLR-generated code into a larger Java application, which would then be managed by Maven. The final stage was integration and acceptance testing of the Python-parsing grammar, which was ultimately conducted by programs consisting of up to 3000 lines of code.\n\n To take the project further and in order to provide a user interface, I learned the basics of creating RESTful web services using Spring Boot and created endpoints that could parse either a file or a string of text given as input. This led to the exploration of API testing and documentation tools including Postman and Swagger. Ultimately, I succeeded in creating a web application, using React, that lets a user enter in their Python applications by means of a file upload or text entry. This, in turn, led to the customization of the JSON object being received and error-handling & -reporting, in order to display on the UI, the parse tree and the syntax errors found in the user input. Finally, I documented major implementation decisions (like the reasoning behind the tools used, results of the testing conducted, the activity flow of the application, and how the various classes implemented tie together)."        
+        }                    
+    ]
+}

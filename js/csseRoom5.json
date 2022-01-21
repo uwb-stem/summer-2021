@@ -1,0 +1,119 @@
+{
+    "csse": [
+        {
+            "time": "12:30 PM - 12:45 PM",
+            "projectId": "csse-5-1230",
+            "title": "Website Development for DeepTracer",
+            "studentName": "Martin Chow",
+            "studentMajor": "CSSE",
+            "projectType": "UWB CSS Fcaulty Research",
+            "facultyAdvisor": "Dr. Dong Si",
+            "posterLink": "./posters/csse/chow_martin.png",
+            "abstract": "DeepTracer is a fast protein complex structure prediction program that creates protein structure from 3D cryo-electron microscopy (cryo-EM) maps using 3D deep learning. We have a website that let users create protein structure from the cryo-EM map. However, we still need some functionality to improve the user experience and the efficiency of our website. We have received some feedback from the users. We tried to improve our website and provide more functions to them accordingly. In this capstone project, I was a part of the frontend and backend developers. I have set up bulk emailing so that our admin can send emails to users using our website. I have also added a password reset function and made the backend server an image using Docker. The first thing I learned from this project is implementing Flask APIs and Angular Website structure. Second, I learned to understand our AI algorithm and how it works. Third, I have learned data processing and containerization. Importantly, I learned how to communicate efficiently with my team members to avoid misunderstanding and how to work as a team and share ideas. Also, I have learned from mistakes and improved our product as well as my version control, git, skills to integrate my implementation with the whole program in an effective way."        
+        },
+        {
+            "time": "12:45 PM - 1:00 PM",
+            "projectId": "csse-5-1245",
+            "title": "BlackTine Labs Internship Project IceBreaker",
+            "studentName": "William Simcox",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship - Blackine LLC",
+            "facultyAdvisor": "Dr. William Erdly",
+            "posterLink": "./posters/csse/simcox_william.png",
+            "abstract": "This  capstone  involved  me,  William  Simcox,  working  as  an  intern  at  a  small  startup  called BlackTine Labs. BlackTine Labs is a startup based in the Seattle area. Created by Ruben Taylor, BlackTine consists of a team made up of around six employees currently. BlackTine is currently working  on  a  project  called  code  name  IceBreaker.  IceBreaker  is  a  CRM  extension  using  deep learning and cloud services to build a robust relationship management platform. IceBreaker will be  able  to  support  multiple  platforms  such  as  Salesforce  and  Constant  Contact  and  empower users  to  manage  and  maintain  relationships  with  customers  using  bleeding-edge  technology effectively. In addition, my faculty sponsor for this internship was Dr. Erdly. \n\n          I  chose  an  internship  for  this  capstone  project  to  help  me  develop  industry  skills  in designing  databases,  CRMs,  and  general  full-stack  software  development  skills.  This  internship improved   my   collaboration   &   team-building   skills,   along   with   project   management,   and systematic thinking skills. My time at BlackTine allowed me to gain advanced knowledge in the following    areas:    object-oriented    programming,    database    design,    internet    applications development,  interface  design  principles,  and  usability  testing.  In  addition,  this  internship  also helped me acquire work experience in the software industry. \n\n          In  conclusion,  my  work  at  BlackTine  Labs  was  challenging  but  very  beneficial.  I  learned more about repositories, cloud data storage technologies, CI/CD solutions, creating models, and much more. Some of the work I had done on IceBreaker included setting up BlackTine’s account management,  defining  the  database  schema,  creating  object-oriented  models,  and  creating classes  using  the  repository  pattern.  Currently,  project  IceBreaker  is  still  under  development. Finally,  the  MVP  (Minimum  Viable  Product)  is  expected  to  launch  in  the  late  Autumn  quarter. After  this  capstone  completes,  my  employment  will  continue  at  BlackTine  for  the  foreseeable future."        
+        },
+        {
+            "time": "1:00 PM - 1:15 PM",
+            "projectId": "csse-5-100",
+            "title": "News Web Application",
+            "studentName": "Stephanie Moua",
+            "studentMajor": "CSSE",
+            "projectType": "Individual Project - Student Defined",
+            "facultyAdvisor": "Dr. William Erdly",
+            "posterLink": "./posters/csse/moua_stephanie.png",
+            "abstract": "World News Scout was developed with the intent to help readers widen their perspectives about news stories. Most people consume news only published by their local media sources. But there are factors like online bubbles, news bias or the influence of agenda-motivated organizations that can affect the public’s ability to fully understand what is happening in the world. This web application aims to provide a pool of articles published in different countries and regions, run a sentiment analysis to detect whether writers or countries use different tones when reporting about the same topic, and determine if are stories positive, negative, mixed, or neutral. Another aspect of the application is to expose users to a wider range of content by highlighting interests of locals through a list of trending topics by country as well as worldwide.\n\n My approach to build the web application was to first design a functional and simple front-end that could present the information in a straightforward manner. Through requirements and design prototype iterations, I drafted the database structure and backend logic necessary. After building the frontend, I worked on the backend, but it required some workarounds due to the limitations of third-party services that I needed to use given the time constraints. The result is a demo version with a simple UI and a functional API that demonstrates how this service could be used to broader our understanding of world news. The project overall allowed me to put in practice the concepts learned in class and gave me the opportunity to improve my programming skills while learning new tools and languages. The project is still a work in progress and in the future, the goal will be to reduce the use of external API, producing more accurate results, and expand the service to more regions and languages."        
+        },
+        {
+            "time": "1:15 PM - 1:30 PM",
+            "projectId": "csse-5-115",
+            "title": "HealthyMe!",
+            "studentName": "Nihal Sandadi",
+            "studentMajor": "CSSE",
+            "projectType": "Individual Project - Student Defined",
+            "facultyAdvisor": "Dr. William Erdly",
+            "posterLink": "./posters/csse/sandadi_nihal.png",
+            "abstract": "The purpose of this capstone project is to create an application that can, through a series of tests, detect Alzheimer’s or even early signs of developing Alzheimer’s. This disease is a cruel one, one that will slowly deteriorate cognitive ability and the ability to remember past events. By taking early steps to stamp out this disease, we can help reduce the amount of damage done by this disease, even eradicate it in some cases.\n\nTo do this, I created an app called HealthyMe!, an app that allows users to take a number of tests, tests which are based on the official SAGE tests for detecting Alzheimer’s, and over a period of time, we can track the progression of the cognitive mind and recollective activities of our user. Constant test results which indicate Alzheimer’s or signs of Alzheimer’s will trigger a warning sent to the user to check with their local physician. This app is not designed to diagnose, it is simply another tool you can use to help give you more information about yourself and your cognitive/mental abilities.\n\nThis app was created in Amazon’s EC2 instance, taking advantage of their spectacular runtime and diligent maintenance to create a very reactive app. Speaking of reactive apps, that is what I used for my front end. I developed my user interface with React.js, a very intuitive and responsive framework, one which makes front-end development a joy to do. For the backend/database, I used MySQL paired with PHP, two technologies that have a very close relationship with each other. This leads to an app that is nicely developed with all the different technologies having nice integration with each other.\n\nWith apps like this, we can take that step forward and start using the technology we’re blessed with to further the human journey. There are hundreds of such apps, anything from fitness training to dieting to similar apps like mine, ones that seek to cut the problem at the bud. Easy, accessible technology is the future, it does not discriminate based on race, sex, age, or class, it is free to anyone with a cell phone and can improve the daily habits in your life to help create a better routine for your body and mind."        
+        },
+        {
+            "time": "1:30 PM - 1:45 PM",
+            "projectId": "csse-5-130",
+            "title": "EYE Center: QuickCheck",
+            "studentName": "Sung Ho Park",
+            "studentMajor": "CSSE",
+            "projectType": "UWB CSS Faculty Research",
+            "facultyAdvisor": "Dr. William Erdly",
+            "posterLink": "./posters/csse/park_sungho.jpg",
+            "abstract": "The vision system is very important when it comes to a student’s learning process. Unfortunately, many people are not aware of its impact. Approximately 25% of all children have issues regarding their vision. This greatly affects how children learn in a negative way because there is a correlation with how children learn through vision.\n\n To combat this problem, the purpose of the team capstone project was to make an interactive application that provides children vision screening. Having this goal in mind, my team was able to create an application called QuickCheck, which was developed by the Educating Young Eyes Center.\n\nQuickCheck was developed through Unity and C#, allowing users to access a vision-screening service, notifying them to the possibility of an issue with their sense of vision. If such an issue was present, the app will recommend the user to schedule an appointment with an eye specialist. With that, however, QuickCheck is not a substitute for an eye exam. The design of the app was developed using Figma.\n\nMy contributions to QuickCheck were mainly implementing the user interface aspects of the app. This includes creating, redesigning, and adding/removing pages of QuickCheck. These pages include: a tutorial page and additional screens for near vision and distance vision.\n\n The application resulted in a successful release for the first version, however, there was limited access to the program. Users were initially restricted to professional use by nurses; however, my team and I are currently working on another release that will be accessible to all users while fixing minor bugs.\n\n Working on this capstone have me a lot of perspective and what I learned through this experience working on QuickCheck was the importance of team collaboration, communication, and the development process in real time. The curriculum in the CSSE program taught me a lot of the fundamentals of the different programming languages and with this capstone, I was able to utilize what I learned into a real-life project meant to help others. This gave me more of a perspective on what the computer science field truly encompasses."            
+        },
+        {
+            "time": "1:45 PM - 2:00 PM",
+            "projectId": "csse-5-145",
+            "title": "Cloud and API Development of Vision Screening App",
+            "studentName": "Max Nguyen",
+            "studentMajor": "CSSE",
+            "projectType": "UWB CSS Faculty Research",
+            "facultyAdvisor": "Dr. William Erdly",
+            "posterLink": "./posters/csse/nguyen_max.png",
+            "abstract": "For my Capstone project, I worked as a developer on the backend system of the EYE (Educating Young Eyes) Research Group, which is an organization aimed at developing innovative technology for children’s vision assessment and therapy. One software that the organization is currently focusing on is QuickCheck, a mobile application that provides vision screening for children.\n\nMy responsibilities at the research group include efficiently managing the organization’s AWS cloud infrastructure and RESTful CRUD API service, as well as developing QuickCheck’s save system with reliable messaging.\n\nThe underlying AWS infrastructure of the EYE Research Group consists of two main AWS services: Amazon RDS to host a MySQL database server for record keeping, and Amazon EC2 to host the API service for storage application. As part of the backend team at the EYE Research Group, I devised a scaling plan for the organization’s AWS infrastructure from its development environment to production with the goal of high availability and scalability to serve approximately a million users.\n\nRegarding the API development aspect of the Capstone project, I was responsible for adding support features and handling errors by utilizing Node.js, Swagger, and Postman. I also initiated a pipeline that deploys the code maintained in an AWS CodeCommit repository to an Amazon EC2 instance.\n\nAs part of the QuickCheck’s dev team, I built a mechanism to asynchronously save data to the users’ local devices and to the AWS backend database using C# and Unity game engine. By utilizing multithreading for the I/O executions, the user’s experience with the app is significantly improved from any delay in the saving mechanism or connection errors. Since QuickCheck sends data to AWS, which requires dealing with error responses in a networked environment, I also programmed the retry logic with exponential backoff to handle the 5xx internal server errors.\n\nAs a result of my Capstone project and my teammates’ hard work, the EYE Research Group successfully launched the alpha version of QuickCheck for Android devices in July 2021 with a scaling plan for the organization’s AWS infrastructure ready for one million users."        
+        },
+        {
+            "time": "2:00 PM - 2:15 PM",
+            "projectId": "csse-5-200",
+            "title": "Student Vision Testing Data Portal",
+            "studentName": "Charlie Cox",
+            "studentMajor": "CSSE",
+            "projectType": "UWB CSS Faculty Research",
+            "facultyAdvisor": "Dr. William Erdly",
+            "posterLink": "./posters/csse/cox_charlie.jpg",
+            "abstract": "Multiple types of users interact with and use some of the EYE Centers applications. One of these crucial applications is the QuickCheck application which allows for nurses and parents to conduct vision screening on students. In addition to the QuickCheck application, an idea was proposed within the EYE Center’s research team on a data portal for various types of users to interact with and access vision testing data. This data portal application will be made available to nurses, doctors, administrators, and researchers to view the vision screening results of students. With the portal, these users can interact with EYE Center Data Service by it being an interface to present screening results. Throughout this project a narrowed down set of specifications have been developed for creating a prototype of a data portal that holds the desired functionality for a nurse. The vue.js framework was used to create the data portal which uses HTML/CSS and JavaScript for web applications. This prototype includes working with a mock server to make mock requests for student data that are displayed within the data portal. For the nurse portal view, the mock student data can be viewed within a table. The table consists of basic student data, the nurse can view more information regarding testing results by selecting a student from the table. Once selected the nurse can access results regarding the student's near vision, distant vision, and survey results. Ideally, the data to be presented within the portal comes from the student's test results within the QuickCheck application. The data portal allows for school nurses that may use the QuickCheck application to have an organized view of their students’ data regarding screening results."        
+        },
+        {
+            
+            "time": "2:15 PM - 2:30 PM",
+            "projectId": "csse-5-215",
+            "title": "Eye Center Research Group: Databases for QuickCheck Application",
+            "studentName": "Michael Lee",
+            "studentMajor": "CSSE",
+            "projectType": "UWB CSS Faculty Research",
+            "facultyAdvisor": "Dr. William Erdly",
+            "posterLink": "./posters/csse/lee_michael.jpg",
+            "abstract": "Eye Center is a project for ongoing evidence-based research on how vision may impact a child’s learning. To collect data for research, it uses an app called QuickCheck. The app helps assess a child’s vision through testing and stores the results into a database for research use. To protect the children’s privacy, the data is stored anonymously.\n\nDuring my research at Eye Center, I worked on the backend of QuickCheck. Roughly speaking, the backend consists of an API built with NodeJS as well as a MySQL database. My main focus was making API calls that created new schemas in the database for QuickCheck. I made sure that the schema was architected in a way that was well organized for research purposes. In the future, researchers at Eye Center will be able to query the database to gather concrete evidence for their research.\n\nThe database contains data about the test questions and answers, test results, information about the anonymous students, their doctor visits, and various metadata for QuickCheck. This design was chosen to allow researchers to query the data easily and flexibly.\n\nOverall, the backend provides the business logic functionality for QuickCheck, which is integral to Eye Center’s research on how vision may impact a child’s learning. The database and it’s tables contain data that will be used to provide evidence for research."        
+        },
+        {
+            
+            "time": "2:30 PM - 2:45 PM",
+            "projectId": "csse-5-230",
+            "title": "AMS Data Portal",
+            "studentName": "Ahmad Yousif",
+            "studentMajor": "CSSE",
+            "projectType": "UWB CSS Faculty Research",
+            "facultyAdvisor": "Dr. William Erdly",
+            "posterLink": "./posters/csse/yousif_ahmad.png",
+            "abstract": "The EYE (Educating Young Eyes) Research Group is dedicated to promoting eye health education among young people.  The group’s main project currently in development toward this cause is the QuickCheck application—a way to greatly facilitate eye examinations by making them accessible on any mobile device.\n\nAs the QuickCheck application begins to roll out to the general public, it is expected that considerable storage is necessary to manage the data of all the participating users and maximize the utility of the application. To allocate this storage, application schemas need to be configured and generated to access the AWS cloud servers. At the start of the quarter, the only method to generate an app schema involved manually writing a lengthy JSON file to pass to the appropriate API—a process which proved extremely time-consuming and error-prone for our developers.\n\nOur team was tasked with developing the AMS Data Portal application to automate the generate schema process. The developer only needs to fill out the required fields for their particular app schema, and the application takes care of the JSON processing and API calling. I gained experience working with the React and Node.js frameworks to develop the user interface for the application.\n\n Although the app is currently undergoing testing by our developers, we are happy to have received positive feedback that the program is indeed successful in simplifying schema generation."        
+        },
+        {
+            "time": "2:45 PM - 3:00 PM",
+            "projectId": "csse-5-245",
+            "title": "Software Development at Educating Young Eyes",
+            "studentName": "Kai Yang Huang",
+            "studentMajor": "CSSE",
+            "projectType": "UWB CSS Faculty Research",
+            "facultyAdvisor": "Dr. William Erdly",
+            "posterLink": "./posters/csse/huang_kaiyang.jpg",
+            "abstract": "QuickCheck is a mobile application as a vision screening tool for optical doctors and nurses. During the past two quarters in the QuickChack Research team, I configured and optimized the back-end services hosted on AWS and develop the App Management Service (AMS) Dataportal from scratch.\n\n In the first quarter, my role in this team was designing the services scalability & availability extension plan. This plan aims to improve performance and availability and handle the higher concurrency in a productive environment. To develop and configure the plan, I design the cloud architecture for production use and set up serval related AWS cloud services, such as CloudWatch, Load Balancer, and Auto Scaling Group. Additionally, I was fully responsible for the QuickCheck API service's end-to-end testing and stress testing to study the application performance factors.\n\n After the testing process, I delivered serval critical information and advice for the team to transform the current app prototype to a production stage.Overall, I enhanced the QuickCheck API service's performance and availability by 5 to 10 times by the plan and testing I designed.\n\n In the second quarter, my role for the team is to develop the App Management Service Data Portal. I directly collaborated with users, and understand user requirements and convert them to detailed tech tasks. I designed the software architecture and the flow chart and directed the (AMS) data portal team during the development cycle. I mainly use ReactJS to create the user interface for the data portal and establish the data portal's main function before the end of the quarter."        
+        }
+        
+        
+        
+    ]
+}

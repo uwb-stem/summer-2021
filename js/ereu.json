@@ -1,0 +1,104 @@
+{
+    "ereu": [
+        {
+            "time": "10:15 AM - 10:30 AM",
+            "projectId": "ereu-1015-1",
+            "title": "Improving Automatic Fall Detection with Spectral and Temporal Features",
+            "studentName": "Nicholas Coyle",
+            "university": "Western Washington University",
+            "projectType": "Electrical Engineering REU",
+            "facultyAdvisor": "Kaibao Nie",
+            "posterLink": "posters/bio/Coyle 1.jpg"
+        },
+        {
+            "time": "10:15 AM - 10:30 AM",
+            "projectId": "ereu-1015-2",
+            "title": "Improving Automatic Fall Detection with Spectral and Temporal Features",
+            "studentName": "Dhanush Karthikeyan",
+            "university": "California State Polytechnic University - Pomona",
+            "projectType": "Electrical Engineering REU",
+            "facultyAdvisor": "Kaibao Nie",
+            "posterLink": "posters/bio/Coyle 1.jpg"
+        },
+        {
+            "time": "10:30 AM - 10:45 AM",
+            "projectId": "ereu-1030-1",
+            "title": "Exploring Methods of Signal Processing for Keywords Spotting in Hearing Devices",
+            "studentName": "Cypress Payne",
+            "university": "Seattle Pacific University",
+            "projectType": "Electrical Engineering REU",
+            "facultyAdvisor": "Kaibao Nie",
+            "posterLink": "posters/bio/Payne & Philor.jpg"
+        },
+        {
+            "time": "10:30 AM - 10:45 AM",
+            "projectId": "ereu-1030-2",
+            "title": "Exploring Methods of Signal Processing for Keywords Spotting in Hearing Devices",
+            "studentName": "Jhyv Philor",
+            "university": "University of Florida",
+            "projectType": "Electrical Engineering REU",
+            "facultyAdvisor": "Kaibao Nie",
+            "posterLink": "posters/bio/Payne & Philor.jpg"
+        },
+        {
+            "time": "10:45 AM - 11:00 AM",
+            "projectId": "ereu-1045-1",
+            "title": "Electrocardiogram Signal Compression and Encoding: Implementation and Comparative Study",
+            "studentName": "Audrey Tseng",
+            "university": "Biola University",
+            "projectType": "Electrical Engineering REU",
+            "facultyAdvisor": "Tadesse Ghirmai",
+            "posterLink": "posters/bio/PTseng&Stieglitz.jpg"
+        },
+        {
+            "time": "10:45 AM - 11:00 AM",
+            "projectId": "ereu-1045-2",
+            "title": "Electrocardiogram Signal Compression and Encoding: Implementation and Comparative Study",
+            "studentName": "Penelope Stieglitz",
+            "university": "Tulane University",
+            "projectType": "Electrical Engineering REU",
+            "facultyAdvisor": "Tadesse Ghirmai",
+            "posterLink": "posters/bio/PTseng&Stieglitz.jpg"
+        },
+        {
+            "time": "11:00 AM - 11:15 AM",
+            "projectId": "ereu-1100-1",
+            "title": "Implementation of Deep Learning Model to Infer User Activity Through EEG Signals",
+            "studentName": "Arun Sarma",
+            "university": "University of Washington Bothell",
+            "projectType": "Electrical Engineering REU",
+            "facultyAdvisor": "Geetha Thamilarasu",
+            "posterLink": "posters/bio/Villarreal&Sarma.jpg"
+        },
+        {
+            "time": "11:00 AM - 11:15 AM",
+            "projectId": "ereu-1100-2",
+            "title": "Implementation of Deep Learning Model to Infer User Activity Through EEG Signals",
+            "studentName": "Andrew Villarreal",
+            "university": "Texas A&M University-Kingsville",
+            "projectType": "Electrical Engineering REU",
+            "facultyAdvisor": "Geetha Thamilarasu",
+            "posterLink": "posters/bio/Villarreal&Sarma.jpg"
+        },
+        {
+            "time": "11:15 AM - 11:30 AM",
+            "projectId": "ereu-1115-1",
+            "title": "Biometric-Based Authentication in Wireless Medial Devices",
+            "studentName": "Aysha Altayar",
+            "university": "University of Washington Bothell",
+            "projectType": "Electrical Engineering REU",
+            "facultyAdvisor": "Geetha Thamilarasu",
+            "posterLink": "posters/bio/Valdez&Altayar.jpg"
+        },
+        {
+            "time": "11:15 AM - 11:30 AM",
+            "projectId": "ereu-1115-2",
+            "title": "Biometric-Based Authentication in Wireless Medial Devices",
+            "studentName": "Breanna Valdez",
+            "university": "University of Washington Seattle",
+            "projectType": "Electrical Engineering REU",
+            "facultyAdvisor": "Geetha Thamilarasu",
+            "posterLink": "posters/bio/Valdez&Altayar.jpg"
+        }
+    ]
+}

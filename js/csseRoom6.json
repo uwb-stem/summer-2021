@@ -1,0 +1,109 @@
+{
+    "csse": [
+        {
+            "time": "12:30 PM - 12:45 PM",
+            "projectId": "csse-6-1230",
+            "title": "Full-Stack Development",
+            "studentName": "Nabeel Sleit",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship - T-Mobile",
+            "facultyAdvisor": "Dr. Marc Dupuis",
+            "posterLink": "./posters/csse/sleit_nabeel.jpg",
+            "abstract": "As of today, T-Mobile owns the largest and fastest 5G network in the United States. In 2020, T-Mobile merged with Sprint. This gave T-Mobile the ability to implement and expand its 5G spectrum. Since T-Mobile is winning the race launching and expanding the 5G next-generation wireless network, and because this technology is still in its early development stages, T-Mobile had to innovate and create tools necessary to upgrade and deploy 5G services into their current network. To automate the process of upgrading cellular cells with the new technology, T-Mobile’s field engineers need customized applications built specifically to fulfill their needs.\n\nDuring my internship, I was part of the team responsible for building and delivering such applications. My team, which consists of 12 developers and product owners working within the Network Infrastructure Engineering (NIE) organization with a focus on the backhaul network domain. As a full-stack developer, I was responsible with other team members to design and build self-service software to automate turn-up and upgrades of the backhaul network. As a result, these applications that were created are being used to upgrade and enable new network services at a scale such as 5G.\n\nI was assigned a mentor to expose me to multiple different roles within software development and to learn how full-stack applications are designed and created. I had the opportunity to learn the industry’s best practices for frontend, backend, and database development."        
+        },
+        {
+            "time": "12:45 PM - 1:00 PM",
+            "projectId": "csse-6-1245",
+            "title": "TM-Portal: T-Mobile URL Shortener",
+            "studentName": "Kaya Peng",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship - T-Mobile",
+            "facultyAdvisor": "Dr. Marc Dupuis",
+            "posterLink": "./posters/csse/peng_kaya.png",
+            "abstract": "TM-Portal is the third version of the internal URL shortener. Previous versions of the application used an outdated language which made the project hard to maintain. The last code update was 2 years ago with missing requested features such as expiration date, link ownership transfers, and QR code support.\n\nThe project uses up-to-date languages such as Python with FastAPI framework to build the backend and Javascript with React framework to build the frontend. We chose MySQL as our database service and hosted it on T-Mobile's Kubernetes servers for internal access. For our CI/CD pipeline, we utilized Gitlab, Docker, and Kubernetes to ensure whenever we push our code to the repository, Docker will automatically rebuild the image, update the pod in Kubernetes, and our changes will show up on our website without having to upload/build anything manually.\n\nOver the course of 8 weeks, our application currently has a working website that allows users to shorten links (alias) and add them to our database. The website also allows users to view, delete, and edit their links. We also implemented an optional expiration date selection if the users want their shortened links to expire on a certain date.\n\nWhile the project has been fun and challenging, there were roadblocks along the way that slowed our project down. When I first joined the team, the project had already started where most of the basic features were built up so it took a couple of weeks to fully understand how the backend/frontend worked. Along with those challenges, since I work at a big company, there was a lot of downtime waiting for permissions and access to certain services."        
+        },
+        {
+            "time": "1:00 PM - 1:15 PM",
+            "projectId": "csse-6-100",
+            "title": "WebUI for Reflow Oven",
+            "studentName": "Brandon Hu",
+            "studentMajor": "CSSE",
+            "projectType": "Collaboration with Electrical Engineering & Computer Engineering students",
+            "facultyAdvisor": "Dr. Marc Dupuis",
+            "posterLink": "./posters/csse/hu_brandon.png",
+            "abstract": "Reflow soldering is used to attach surface-mount electrical components to a printed circuit board using soldering paste and heat. However, different soldering pastes require different levels of heat at multiple points in time. A conventional oven is not able to achieve the fine control needed for a successful reflow. On the other hand, industry level ovens can accurately follow a profile but cost thousands of dollars. Even worse, the interface can be hard to use and be limited in features.\n\nIn this capstone project, an Electrical Engineering team and I were assigned to develop a reflow oven that uses a modified toaster oven as well as other parts that one can obtain for a low cost. The goal was to have this oven be cheaper, easier to use, and have the same features as industrial ovens that cost five times the price.\n\nReact was used for the frontend to ensure that the WebUI was especially responsive and friendly. Since customizing a profile was one of the pain points of other ovens, most of the effort was spent on the profile editing page. Users are able to drag and drop nodes wherever they wish as well as change the number of nodes used. This allows for extremely complex profiles with multiple peaks and dips to be created – a task that is unachievable on other ovens.\n\nNode.js was definitely the workhorse of this application. The vast number of libraries made it easy to add functionality that would have been difficult to implement by hand. For example, there is a library for GPIO, a library for PID control, a library for communicating with Serial Peripheral Interface (SPI) devices, and many more. These libraries were responsible for controlling the oven while the Express.js library hosted the frontend. In the end, everything could be packaged into one application, making the installation process painless."        
+        },
+        {
+            "time": "1:15 PM - 1:30 PM",
+            "projectId": "csse-6-115",
+            "title": "Angel Voice App for Mobile Devices",
+            "studentName": "Chi Vu",
+            "studentMajor": "CSSE",
+            "projectType": "UWB CSS Faculty Research",
+            "facultyAdvisor": "Dr. Marc Dupuis",
+            "posterLink": "./posters/csse/vu_chi.png",
+            "abstract": "The absence of parents in a child’s life can have a psychological effect on the child due to the lack in parental guidance and the emotional support that family bonding and love can provide. With the ongoing COVID-19 pandemic, this problem has worsened as parents and guardians who are affected and are in a health crisis do not have the opportunity to give final words and goodbyes to their love ones due to quarantining. However, Angel Voice will change that as the application is designed to let users record legacy videos for themselves or others.\n\n Being developed in Android Studio, the Angel Voice application brings pertinent skills into the industry including app development, UI design, and user research. To confirm its function and safety, test runs are conducted using Android Emulator, ensuring to users that the application guarantees a minimal and friendly user-interface so it can be use by any novice technology users.\n\n The Angel Voice application provides a personal and safe place to record legacy videos. Data derived from the consumer’s usage will be saved and stored within the application and can be accessed by their choice of people. In addition, the application provides users with many interesting topics and questions for different events and occasions.\n\nWhen designing the software, the acquiring skills from courses taken at the University of Washington, Bothell such as object-oriented programming, data structure, and user experience design were implemented. A core rule was followed when designing the interface to keep the elements consistent throughout the application. After the execution of each phase of the design, user testing was conducted to find bugs in order to develop the app further."        
+        },
+        {
+            "time": "1:30 PM - 1:45 PM",
+            "projectId": "csse-6-130",
+            "title": "Risk Assessment & Mitigation for Core Security Capabilities",
+            "studentName": "Joshua Watts",
+            "studentMajor": "CSSE",
+            "projectType": "UWB CSS Faculty Research",
+            "facultyAdvisor": "Dr. Marc Dupuis",
+            "posterLink": "./posters/csse/watts_joshua.png",
+            "abstract": "Determining if an organization is protected against cyberattacks is a difficult but important task. One way to assess the performance of risk mitigation systems is through metrics. Many organizations have tried to create a comprehensive list of cybersecurity metrics, but none have succeeded in creating an industry accepted standard.\n\nThis new research project created by Dr. Marc Dupuis aims to determine which cybersecurity metrics may be used to gauge an organization’s level of security and readiness at any given time.\n\nThis project began with an initial exhaustive research phase where we reviewed literature and research papers from cybersecurity research. In conjunction with the research, we assembled an interview guide which may be used in further research to gather information from Chief Information Security Officers and other cybersecurity professionals to continue research. After our research, we compiled our notes to create a comprehensive paper that describes our findings and will aid in the continuation of this research.\n\nWe discovered many metrics that work for a wide range of applications and may be used by organizations to provide information on how their risk mitigation strategies are working. Our metric findings will aid the continuation of this research project and may eventually lead to a mock-up cybersecurity dashboard."        
+        },
+        {
+            "time": "1:45 PM - 2:15 PM",
+            "projectId": "csse-6-145",
+            "title": "UWB GenCyber Virtual Camp",
+            "group": [
+                {
+                    "studentName": "Mohamed Alturfi",
+                    "studentMajor": "CSSE"
+                },
+                {
+                    "studentName": "Laura Crouse",
+                    "studentMajor": "CSSE"
+                },
+                {
+                    "studentName": "Luis Carlos Cruz Reyes",
+                    "studentMajor": "CSSE"
+                },
+                {
+                    "studentName": "Eunhee Kim",
+            "studentMajor": "CSSE"
+                },
+                {
+                    "studentName": "Connie Lee",
+                    "studentMajor": "CSSE"
+                },
+                {
+                    "studentName": "Jose Palomera",
+                    "studentMajor": "CSSE"
+                },
+                {
+                    "studentName": "Christina Phanekham",
+                    "studentMajor": "CSSE"
+                }
+            ],
+            "projectType": "UWB CSS Faculty Research",
+            "facultyAdvisor": "Dr. Marc Dupuis",
+            "posterLink": "./posters/csse/alturfi_mohamed.png",
+            "abstract": "This capstone project involved assisting Dr. Dupuis with the preparation and administration of UWB’s GenCyber Virtual Cybersecurity camp for 7th-12th graders. Over the course of 2 weeks, we served as Student Leaders for the camp and helped deliver and aid the participants with various labs, activities, discussions, and games. We collaborated in groups to prepare various educational content for the camp such as: consistent and clear documentation of activities/labs, three levels for each activity, video demos of each activity, animation videos relating to cybersecurity, a storyline to tie everything together, setting up a virtual lab environment on Kali Linux, developing a system to track/monitor feedback on a daily basis, and creating games/icebreakers.\n\n There is a general lack of education about cybersecurity, as well as a need for skilled professionals who help develop and find new ways to combat various threats. This camp was developed to help educate young students about cybersecurity and privacy in a fun and interactive way. We focused on teaching students how to protect the confidentiality, integrity, and availability of information, while raising awareness about different cyber threats. Additionally, this project helped to encourage and inspire young students to possibly pursue careers in cybersecurity, which helps to ensure the protection of our country’s security in the future as our society becomes increasingly reliant on cyber-based technology.\n\nOverall, the participants had an engaging and successful experience attending the camp that will benefit them long into the future. The students were able to learn new concepts and skills which they wouldn’t have considered before, and based on the feedback we received, we were able to tend to the needs of the students by modifying the structure of the camp. The knowledge and wisdom gained by UWB from this project will help with the preparation and execution of future GenCyber camps that are hosted. This experience serves as an outline that can be utilized and modified for future camps."        
+        },
+        {
+            "time": "2:30 PM - 2:45 PM",
+            "projectId": "csse-6-230",
+            "title": "Cybersecurity: AAA Washington SIEM",
+            "studentName": "Lucas Buckeye",
+            "studentMajor": "CSSE",
+            "projectType": "Sponsored Internship - AAA",
+            "facultyAdvisor": "Dr. Marc Dupuis",
+            "posterLink": "./posters/csse/buckeye_lucas.png",
+            "abstract": "It is critical that every organization has good security visibility within their computer environments. A security tool that is commonly used to provide this insight is a SIEM (security information and event management) solution. SIEMs gather data from many different devices such as routers, firewalls, and traditional desktops. Detection rules are created within the SIEM with the intent to catch malicious activity. If a detection rule is triggered, an alert is generated within the SIEM. A member of the security team then investigates the incident and determines whether the triggered alert is a false-positive or a security threat.\n\n During my internship, I worked with AAA Washington to test a new SIEM technology in their computing enviornment. This was because AAA Washington’s current SIEM solution took hours to export any data that was needed for a security investigation, and thus made it impractical for use within their security enviornment.\n\n Over the course of my internship, I grew in many existing skills as well as gained entirely new ones. For example, my communication skills grew immensely – this was demonstrated as I had to synchronize communication between the SIEM vendor and AAA Washington. During this internship, I also learned how SIEM technology works. I learned how to analyze data from devices such as routers, servers, and firewalls to the SIEM. I also learned how to create effective detection rules that would trigger when malicious activity was taking place.\n\n Overall, the project was a major success. This is because both parties achieved their goals. Through this proof of concept, AAA Washington determined that the new SIEM technology meets its buisness and security requirements making it a valid choice for use in the future. It was a success for me personally, as I learned about business operations in a production enviornment as well as gained knowledge and experience with a new security tool and other various technologies."        
+        }
+    ]
+}

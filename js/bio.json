@@ -1,0 +1,243 @@
+{
+    "bio": [
+        {
+            "time": "8:35 AM - 9:00 AM",
+            "projectId": "bio-835-1",
+            "title": "Effectiveness of Mycoremediation using Pleurotus Florida on contaminated wetland water spiked with bacteria.",
+            "studentName": "Jose Cabigting",
+            "studentMajor": "Biology (B.S.)",
+            "projectType": "Biological Sciences",
+            "facultyAdvisor": "Keya Sen",
+            "posterLink": "./posters/bio/Christian (1).jpg"
+        },
+        {
+            "time": "8:35 AM - 9:00 AM",
+            "projectId": "bio-835-2",
+            "title": "Effectiveness of Mycoremediation using Pleurotus Florida on contaminated wetland water spiked with bacteria.",
+            "studentName": "Kara Clark",
+            "studentMajor": "Biology (B.S.) / Health Studies Minor",
+            "projectType": "Biological Sciences",
+            "facultyAdvisor": "Keya Sen",
+            "posterLink": "./posters/bio/Christian (1).jpg"
+        },
+        {
+            "time": "8:35 AM - 9:00 AM",
+            "projectId": "bio-835-3",
+            "title": "Effectiveness of Mycoremediation using Pleurotus Florida on contaminated wetland water spiked with bacteria.",
+            "studentName": "Marta Pigura",
+            "studentMajor": "Biology (B.S.)",
+            "projectType": "Biological Sciences",
+            "facultyAdvisor": "Keya Sen",
+            "posterLink": "./posters/bio/Christian (1).jpg"
+        },
+        {
+            "time": "8:35 AM - 9:00 AM",
+            "projectId": "bio-835-4",
+            "title": "Effectiveness of Mycoremediation using Pleurotus Florida on contaminated wetland water spiked with bacteria.",
+            "studentName": "Vania Nguyen",
+            "studentMajor": "Biology (B.S.) / Chemistry Minor",
+            "projectType": "Biological Sciences",
+            "facultyAdvisor": "Keya Sen",
+            "posterLink": "./posters/bio/Christian (1).jpg"
+        },
+        {
+            "time": "8:35 AM - 9:00 AM",
+            "projectId": "bio-835-5",
+            "title": "Effectiveness of Mycoremediation using Pleurotus Florida on contaminated wetland water spiked with bacteria.",
+            "studentName": "Christian Suleiman",
+            "studentMajor": "Biology (B.S.)",
+            "projectType": "Biological Sciences",
+            "facultyAdvisor": "Keya Sen",
+            "posterLink": "./posters/bio/Christian (1).jpg"
+        },
+        {
+            "time": "9:00 AM - 9:25 AM",
+            "projectId": "bio-900-1",
+            "title": "Comparing the Mycoremediative Properties of Pleurotus Cultivars to Environmental Hybrids in Remediating Crow-Feces Contaminated Wetland Water",
+            "studentName": "Kelsey Cox",
+            "studentMajor": "Biology (B.S.)",
+            "projectType": "Biological Sciences",
+            "facultyAdvisor": "Keya Sen",
+            "posterLink": "posters/bio/Coral Ely.png"
+        },
+        {
+            "time": "9:00 AM - 9:25 AM",
+            "projectId": "bio-900-2",
+            "title": "Comparing the Mycoremediative Properties of Pleurotus Cultivars to Environmental Hybrids in Remediating Crow-Feces Contaminated Wetland Water",
+            "studentName": "Coral Ely",
+            "studentMajor": "Chemistry: Biochemistry Option (B.S.)",
+            "projectType": "Biological Sciences",
+            "facultyAdvisor": "Keya Sen",
+            "posterLink": "posters/bio/Coral Ely.png"
+        },
+        {
+            "time": "9:00 AM - 9:25 AM",
+            "projectId": "bio-900-3",
+            "title": "Comparing the Mycoremediative Properties of Pleurotus Cultivars to Environmental Hybrids in Remediating Crow-Feces Contaminated Wetland Water",
+            "studentName": "Gabe Nightengale",
+            "studentMajor": "Biology (B.S.)",
+            "projectType": "Biological Sciences",
+            "facultyAdvisor": "Keya Sen",
+            "posterLink": "posters/bio/Coral Ely.png"
+        },
+        {
+            "time": "9:00 AM - 9:25 AM",
+            "projectId": "bio-900-4",
+            "title": "Comparing the Mycoremediative Properties of Pleurotus Cultivars to Environmental Hybrids in Remediating Crow-Feces Contaminated Wetland Water",
+            "studentName": "Mya Tu",
+            "studentMajor": "Biology (B.S.) / Neuroscience Minor",
+            "projectType": "Biological Sciences",
+            "facultyAdvisor": "Keya Sen",
+            "posterLink": "posters/bio/Coral Ely.png"
+        },
+        {
+            "time": "9:35 AM - 9:50 AM",
+            "projectId": "bio-935",
+            "title": "Pollination & Foraging Patterns of Solitary Bees on CCUWB Campus",
+            "studentName": "Isabelle Heier",
+            "studentMajor": "Biology (B.S.) / Chemistry Minor",
+            "projectType": "Biological Sciences",
+            "facultyAdvisor": "Amy Lambert",
+            "posterLink": "posters/bio/Isabelle Heier.png"
+        },
+        {
+            "time": "9:50 AM - 10:05 AM",
+            "projectId": "bio-950",
+            "title": "Using De Novo Ligand Design to Discover Ligands that Bind to Ribonucleotide Reductase to Treat Sickle Cell Anemia",
+            "studentName": "Meera Kandasamy",
+            "studentMajor": "Biology (B.S.)",
+            "projectType": "Biological Sciences",
+            "facultyAdvisor": "Peter Anderson",
+            "posterLink": "./posters/bio/Meera (1).png"
+        },
+        {
+            "time": "10:05 AM - 10:20 AM",
+            "projectId": "bio-1005",
+            "title": "Using De Novo Drug Design to Discover Novel Inhibitors of Myasthenia Gravis",
+            "studentName": "Mehran Serai",
+            "university": "Biology (B.S.) / Chemistry Minor",
+            "projectType": "Biological Sciences",
+            "facultyAdvisor": "Peter Anderson",
+            "posterLink": "./posters/bio/Mehran.png"
+        },
+        {
+            "time": "10:20 AM - 10:40 AM",
+            "projectId": "bio-1020-1",
+            "title": "5000 Generations of Coevolution in Mutations",
+            "studentName": "Elizabeth Blue",
+            "studentMajor": "Biology (B.S.)",
+            "facultyAdvisor": "Kristina Hillesland",
+            "posterLink": "posters/bio/Toan Hy.png"
+        },
+        {
+            "time": "10:20 AM - 10:40 AM",
+            "projectId": "bio-1020-2",
+            "title": "5000 Generations of Coevolution in Mutations",
+            "studentName": "Toan Hy",
+            "studentMajor": "Biology (B.S.) / Chemistry Minor",
+            "projectType": "Biological Sciences",
+            "facultyAdvisor": "Kristina Hillesland",
+            "posterLink": "posters/bio/Toan Hy.png"
+        },
+        {
+            "time": "10:20 AM - 10:40 AM",
+            "projectId": "bio-1020-3",
+            "title": "5000 Generations of Coevolution in Mutations",
+            "studentName": "Hasan Ijaz",
+            "studentMajor": "Biology (B.S.) & Health Studies (B.A.)",
+            "projectType": "Biological Sciences",
+            "facultyAdvisor": "Kristina Hillesland",
+            "posterLink": "posters/bio/Toan Hy.png"
+        },
+        {
+            "time": "10:20 AM - 10:40 AM",
+            "projectId": "bio-1020-4",
+            "title": "5000 Generations of Coevolution in Mutations",
+            "studentName": "Jasleen Pawar",
+            "studentMajor": "Biology (B.S.)",
+            "projectType": "Biological Sciences",
+            "facultyAdvisor": "Kristina Hillesland",
+            "posterLink": "posters/bio/Toan Hy.png"
+        },
+        {
+            "time": "10:50 AM - 11:10 AM",
+            "projectId": "bio-1050-1",
+            "title": "Genomic Analysis of Adaptation in Methanogenic Archea",
+            "studentName": "Noor Abdulhameed",
+            "studentMajor": "Biology (B.S.)",
+            "projectType": "Biological Sciences",
+            "facultyAdvisor": "Kristina Hillesland",
+            "posterLink": "posters/bio/Noor Abdulhameed.jpg"
+        },
+        {
+            "time": "10:50 AM - 11:10 AM",
+            "projectId": "bio-1050-2",
+            "title": "Genomic Analysis of Adaptation in Methanogenic Archea",
+            "studentName": "Navdha Chahda",
+            "studentMajor": "Biology (B.S.)",
+            "projectType": "Biological Sciences",
+            "facultyAdvisor": "Kristina Hillesland",
+            "posterLink": "posters/bio/Noor Abdulhameed.jpg"
+        },
+        {
+            "time": "10:50 AM - 11:10 AM",
+            "projectId": "bio-1050-3",
+            "title": "Genomic Analysis of Adaptation in Methanogenic Archea",
+            "studentName": "Jasmine Bianca Rey-Butts",
+            "university": "Biology (B.S.)",
+            "projectType": "Biological Sciences",
+            "facultyAdvisor": "Kristina Hillesland",
+            "posterLink": "posters/bio/Noor Abdulhameed.jpg"
+        },
+        {
+            "time": "10:50 AM - 11:10 AM",
+            "projectId": "bio-1050-4",
+            "title": "Genomic Analysis of Adaptation in Methanogenic Archea",
+            "studentName": "Allison Vu",
+            "studentMajor": "Biology (B.S.) / Chemistry Minor",
+            "projectType": "Biological Sciences",
+            "facultyAdvisor": "Kristina Hillesland",
+            "posterLink": "posters/bio/Noor Abdulhameed.jpg"
+        },
+        {
+            "time": "11:10 AM - 11:30 AM",
+            "projectId": "bio-1110-1",
+            "title": "Making Mutants to Test Mutualism",
+            "studentName": "Azizullah Bajouri",
+            "studentMajor": "Biology (B.S.) / CSS Information Technology Minor",
+            "projectType": "Biological Sciences",
+            "facultyAdvisor": "Kristina Hillesland",
+            "posterLink": "posters/bio/Monica Vorn.jpg"
+        },
+        {
+            "time": "11:10 AM - 11:30 AM",
+            "projectId": "bio-1110-2",
+            "title": "Making Mutants to Test Mutualism",
+            "studentName": "Kavan Brar",
+            "studentMajor": "Biology (B.S.)",
+            "projectType": "Biological Sciences",
+            "facultyAdvisor": "Kristina Hillesland",
+            "posterLink": "posters/bio/Monica Vorn.jpg"
+        },
+        {
+            "time": "11:10 AM - 11:30 AM",
+            "projectId": "bio-1110-3",
+            "title": "Making Mutants to Test Mutualism",
+            "studentName": "Jakob Johnson",
+            "studentMajor": "Biology (B.S.) / Chemistry Minor",
+            "projectType": "Biological Sciences",
+            "facultyAdvisor": "Kristina Hillesland",
+            "posterLink": "posters/bio/Monica Vorn.jpg"
+        },
+        {
+            "time": "11:10 AM - 11:30 AM",
+            "projectId": "bio-1110-4",
+            "title": "Making Mutants to Test Mutualism",
+            "studentName": "Monica Vorn",
+            "studentMajor": "Health Studies (B.A.) / Neuroscience Minor",
+            "projectType": "Biological Sciences",
+            "facultyAdvisor": "Kristina Hillesland",
+            "posterLink": "posters/bio/Monica Vorn.jpg"
+        }
+    ]
+}
