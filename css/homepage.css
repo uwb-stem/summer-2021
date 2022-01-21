@@ -1,0 +1,314 @@
+@import url("dropdowns.css");
+
+body {
+    background-color: #EFEDE4;
+    font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+  }
+
+/* UW Bothell logo */
+.uwb-logo {
+    background-color: #4b2e83;
+    height: 70px;
+    text-align: center;
+    padding: 20px;
+}
+
+.nav-bar  {
+    text-align: center;
+}
+
+.align-center {
+  text-align: center;
+}
+
+header h1 {
+  margin: 40px;
+  font-family: 'EncodeSans-bold', sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+header h2 {     /* date */
+  margin: -22px 0 45px 0;
+  font-family: 'EncodeSans-bold', sans-serif;
+  font-size: 23px;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+
+hr {
+  background-color: #000;
+  border-width: 0;
+  height: 1.3px;
+  width: 20%;
+}
+
+/* ------------------------------ Home Page styles ----------------------------- */
+.styled-heading {
+  font-family: EncodeSans-black;
+  margin: 80px 10% 0 10%;
+  font-size: 15px;
+}
+
+.styled-heading figure {
+  background-image: url(https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/98/2014/10/07214122/Bar_RtAngle_7502.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  height: 50px;
+  width: 400px;
+  margin-left: -3px;
+}
+
+.divisions-row {
+  display: flex;
+  flex-direction: row;
+  /* height: 0px; */
+  /* margin: 0 400px 70px 400px; */
+  margin: 0 20% 70px 20%;
+  text-align: center; 
+}
+
+.divisions-row-2 {
+  display: flex;
+  flex-direction: row;
+  margin: 0 30% 70px 30%;
+  text-align: center; 
+}
+
+.division-box {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+  height: 290px;
+  margin: auto;
+}
+
+.divsion-name:hover {
+  color: #b7a57a;
+}
+
+.division-box img {
+  width: 300px;
+}
+
+.divsion-name {
+  /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+
+  background-color: #fff;
+  color: #000;
+  font-family: 'EncodeSans-bold';
+  font-size: 18px;
+  height: 25px;
+  margin-top: -5px;
+  padding: 35px 0;
+}
+
+.divsion-name-extended {
+  height: 45px;
+  padding: 20px 0 30px 0;
+}
+
+@media only screen and (max-width: 1700px) {
+  /* body {
+      background-color: pink;
+  } */
+  .divisions-row {
+    margin: 0 150px 60px 150px;
+  }
+
+  .divisions-row-2 {
+    margin: 0 330px 40px 330px;
+  }
+}
+
+@media only screen and (max-width: 1400px) {
+  .divisions-row {
+    margin: 0 10% 60px 10%;
+  }
+
+  .divisions-row-2 {
+    margin: 0 20% 40px 20%;
+  }
+}
+
+.space {
+  height: 45px;
+}
+
+.fa-quote-left {
+  margin: 0 0 0 17%;
+}
+
+.fa-quote-right {
+  float: right;
+  margin: 0px 18% 0 0;
+}
+
+button {
+  float: inline-end;
+  margin-left: 3%;
+  /* padding: 8px; */
+  background: #ffffff;
+  color: rgb(70, 67, 67);
+  border: 1px solid rgb(255, 255, 255);
+  /* border-left: none; Prevent double borders */
+  font-size: 17px;
+  cursor: pointer;
+  /* height: 40px; */
+}
+
+.welcome-text {
+  font-family: 'OpenSans';
+  font-size: 18px;
+  line-height: 30px;
+  margin: 10px 20% 0px 20%;
+  /* text-align: justify; */
+  /* font-style: italic; */
+}
+
+.signature {
+  font-family: 'EncodeSans-light';
+  font-size: 19px;
+  margin: 40px 15% 50px 20%;
+  text-align: center;
+}
+
+.text {
+  margin: 0px 10% 0 10%;
+  font-family: 'EncodeSans-regular';
+  font-size: 20px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.sponsors figure img {
+  size: 120px;
+  display: block;
+  margin: auto;
+  max-width: 70%;
+} 
+
+footer p {
+  font-family: 'OpenSans';
+  font-size: 18px;
+  margin: 50px 0 50px 40px;
+  text-align: center;
+}
+
+/* .text p {  
+  font-family: OpenSans;
+  font-size: 20px;
+  margin-bottom: 50px;
+  text-align: center;
+} */
+
+/* -------------------------- Dropdown from green icons ----------------------------- */
+.icon-dropdown {
+  position: relative;
+  display: inline-block;
+  padding: 5px 5px 0 5px;
+  /* padding-top: 5px; */
+}
+
+.icon-dropdown-item {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 200px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  /* bottom: -130px; */
+  font-family: 'EncodeSans-medium';
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+  text-transform: none;
+  font-size: 14px;
+}
+
+.icon-dropdown-item a {
+  border: 0.5px solid rgba(0, 0, 0, 0.4);
+  color: black;
+  display: block;
+  padding: 12px 16px;
+  text-decoration: none;
+}
+
+.icon-dropdown-item a:hover {
+  background-color: #ddd;
+}
+
+.move-item-down {
+  margin-top: 30px;
+}
+
+/* Show the dropdown menu on hover */
+.icon-dropdown:hover .icon-dropdown-item {display: block;}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+/* .icon-dropdown:hover .icon-dropbtn {background-color: #3e8e41;} */
+
+/* -------------------------- Fonts ----------------------------- */
+@font-face {
+  font-family: 'EncodeSans-black';
+  src: url('../fonts/EncodeSans/EncodeSansNormal-900-Black.ttf');
+}
+
+@font-face {
+  font-family: 'EncodeSans-bold';
+  src: url('../fonts/EncodeSans/EncodeSansNormal-700-Bold.ttf');
+}
+
+@font-face {
+  font-family: 'EncodeSans-medium';
+  src: url('../fonts/EncodeSans/EncodeSansNormal-500-Medium.ttf');
+}
+
+@font-face {
+  font-family: 'EncodeSans-regular';
+  src: url('../fonts/EncodeSans/EncodeSansNormal-400-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'EncodeSans-light';
+  src: url('../fonts/EncodeSans/EncodeSansNormal-200-ExtraLight.ttf')
+}
+
+@font-face {
+  font-family: 'UniSans';
+  src: url('../fonts/UniSans/Fontfabric - UniSansBook.otf');
+}
+
+@font-face {
+  font-family: 'OpenSans';
+  src: url('../fonts/OpenSans/Open Sans regular.ttf');
+}
+
+@font-face {
+    font-family: 'Encode Sans Compressed';
+    src: url('../assets/fonts/encodesanscompressed-600-semibold-webfont.eot');
+    src: url('../assets/fonts/encodesanscompressed-600-semibold-webfont.eot?#iefix') format('embedded-opentype'), url('../assets/fonts/encodesanscompressed-600-semibold-webfont.woff') format('woff'), url('../assets/fonts/encodesanscompressed-600-semibold-webfont.ttf') format('truetype'), url('../assets/fonts/encodesanscompressed-600-semibold-webfont.svg#encodesanscompressed-600-semibold-webfont') format('svg');
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: 'Encode Sans Compressed';
+    src: url('../assets/fonts/encodesanscompressed-800-extrabold-webfont.eot');
+    src: url('../assets/fonts/encodesanscompressed-800-extrabold-webfont.eot?#iefix') format('embedded-opentype'), url('../assets/fonts/encodesanscompressed-800-extrabold-webfont.woff') format('woff'), url('../assets/fonts/encodesanscompressed-800-extrabold-webfont.ttf') format('truetype'), url('../assets/fonts/encodesanscompressed-800-extrabold-webfont.svg#encodesanscompressed-800-extrabold-webfont') format('svg');
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  @font-face {
+    font-family: "Flat-UI-Icons";
+    src: url('assets/icons/flat-ui-icons-regular.eot');
+    src: url('assets/icons/flat-ui-icons-regular.eot?#iefix') format('embedded-opentype'), url('assets/icons/flat-ui-icons-regular.woff') format('woff'), url('assets/icons/flat-ui-icons-regular.ttf') format('truetype'), url('assets/icons/flat-ui-icons-regular.svg#flat-ui-icons-regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
