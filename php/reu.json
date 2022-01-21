@@ -1,0 +1,69 @@
+{
+    "preu": [
+        {
+            "time": "10:00 AM - 10:15 AM",
+            "projectId": "preu-1045",
+            "title": "Developing Professional Vision for Equity with Periscope Lessons",
+            "studentName": "Andrea Wooley",
+            "university": "Western Washington University",
+            "facultyAdvisor": "Rachel Scherr",
+            "posterLink": "./posters/placeholder/capstone BIO poster.PNG"
+        },
+        {
+            "time": "11:50 AM - 12:20 PM",
+            "projectId": "preu-1225",
+            "title": "Finding Extremely High-Velocity Outflows in Sloan Digital Sky Survey Data Release 16 Quasars",
+            "studentName": "Michael Parker",
+            "univeristy": "William & Mary",
+            "projectType": "",
+            "facultyAdvisor": "Paola Rodriguez Hidalgo",
+            "posterLink": "./posters/placeholder/capstone BIO poster.PNG"
+        },
+        {
+            "time": "12:25 PM - 12:20 PM",
+            "projectId": "preu-1225",
+            "title": "Finding Extremely High-Velocity Outflows in Sloan Digital Sky Survey Data Release 16 Quasars",
+            "studentName": "Cora DeFrancesco",
+            "univeristy": "University of Oklahoma",
+            "projectType": "",
+            "facultyAdvisor": "Paola Rodriguez Hidalgo",
+            "posterLink": "./posters/placeholder/capstone BIO poster.PNG"
+        },
+        {
+            "time": "11:50 AM - 12:20 PM",
+            "projectId": "preu-1225",
+            "title": "Finding Extremely High-Velocity Outflows in Sloan Digital Sky Survey Data Release 16 Quasars",
+            "studentName": "Nathnael Kahassi",
+            "univeristy": "University of North Carolina",
+            "projectType": "",
+            "facultyAdvisor": "Paola Rodriguez Hidalgo",
+            "posterLink": "./posters/placeholder/capstone BIO poster.PNG"
+        },
+        {
+            "time": "11:50 AM - 12:20 PM",
+            "projectId": "preu-1225",
+            "title": "Finding Extremely High-Velocity Outflows in Sloan Digital Sky Survey Data Release 16 Quasars",
+            "studentName": "Wendy Garcia Naranjo",
+            "univeristy": "University of Washington Bothell",
+            "projectType": "",
+            "facultyAdvisor": "Paola Rodriguez Hidalgo",
+            "posterLink": "./posters/placeholder/capstone BIO poster.PNG"
+        },
+        {
+            "time": "11:50 AM - 12:20 PM",
+            "projectId": "preu-1225",
+            "title": "Finding Extremely High-Velocity Outflows in Sloan Digital Sky Survey Data Release 16 Quasars",
+            "studentName": "Mikel Charles",
+            "univeristy": "University of Washington Bothell",
+            "projectType": "",
+            "facultyAdvisor": "Paola Rodriguez Hidalgo",
+            "posterLink": "./posters/placeholder/capstone BIO poster.PNG"
+        }
+    ],
+    "ereu": [
+        {
+
+        }
+    ]
+
+}
