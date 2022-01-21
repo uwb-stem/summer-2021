@@ -1,1 +1,1 @@
-Link to homepage:
+Link to Home Page:
